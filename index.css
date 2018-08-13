@@ -1,0 +1,15 @@
+.header{
+background-color: aliceblue;
+}
+
+p { 
+    word-spacing: 30px;
+}
+
+.header0{
+    background-color:whitesmoke;
+    }
+.footer{
+        background-image: url("/Image/Flower.jpg");
+        
+}
