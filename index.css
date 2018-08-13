@@ -1,15 +1,15 @@
 .header{
-background-color: aliceblue;
+background-color: lightgreen;
 }
 
-p { 
-    word-spacing: 30px;
+.p { 
+    word-spacing: 50px;
 }
 
-.header0{
+.header{
     background-color:whitesmoke;
     }
-.footer{
-        background-image: url("/Image/Flower.jpg");
+.garden{
         
+        background-image: url("/image/flower.jpg");
 }
