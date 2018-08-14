@@ -1,9 +1,8 @@
-.header{
-background-color: lightgreen;
-}
 
 .p { 
     word-spacing: 50px;
+    padding: 40px;
+    background-color: bisque;
 }
 
 .header{
@@ -11,5 +10,46 @@ background-color: lightgreen;
     }
 .garden{
         
-        background-image: url("/image/flower.jpg");
+        background-image: url('image/nature.jpg');
+        width:1050px;
+        height: 150px;
+        background-repeat: no-repeat;
+        background-size: cover;
 }
+.commonone{
+    
+    font: 15px arial, sans-serif;
+}
+.commontwo{
+    opacity: 0.9;
+    
+}
+
+.image {
+    border-radius: 50%;
+}
+h1:before{
+    content: "ANIKET";
+    background-attachment: fixed;
+        position: absolute;
+        font-size: 150px;
+        z-index: -1;
+        opacity: 0.1;
+
+}
+.container
+{
+    width:1050px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+}
+
+.footer{
+    outline: 20px;
+  
+    text-align: center;
+  
+   padding: 40px;
+   
+ }
